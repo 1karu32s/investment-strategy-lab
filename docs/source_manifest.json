@@ -1,0 +1,145 @@
+{
+  "status": "packaged_source_not_new_strategy_validation",
+  "files": [
+    {
+      "file": "momentum_tool/config.py",
+      "original_sha256": "4a20cc64c4dbdb43c1536104e8697df847ed3ba974d799636933821c1ffc2af4",
+      "packaged_sha256": "08a4128d2552ec5bc80d9b022e3a9a48c8b237b9f7c77f25ed0c9ac99239c080"
+    },
+    {
+      "file": "momentum_tool/data_layer.py",
+      "original_sha256": "7b03fa2416b7d0421a1be0940412d10b537ce6208bacb9ca5d90154d028e4d1f",
+      "packaged_sha256": "835ece6154919ce25fdbc928683a014a9bafeab7a3b3efb46869e4ccbaab0584"
+    },
+    {
+      "file": "momentum_tool/engine.py",
+      "original_sha256": "15cc07566a1f4d56a51d02b994d68954285d8125fb1ca1472c471857f823e444",
+      "packaged_sha256": "15cc07566a1f4d56a51d02b994d68954285d8125fb1ca1472c471857f823e444"
+    },
+    {
+      "file": "momentum_tool/explore.py",
+      "original_sha256": "31175490ec93805ae289ff958c7073f72075b97d9f2bf8126cf6945e51fb7e8c",
+      "packaged_sha256": "31175490ec93805ae289ff958c7073f72075b97d9f2bf8126cf6945e51fb7e8c"
+    },
+    {
+      "file": "momentum_tool/explore2.py",
+      "original_sha256": "5cd6d4af8312b00ad1b8ec41c35a5cee9f8e392ba2da5bfe0f61ff5ca9c4a9db",
+      "packaged_sha256": "5cd6d4af8312b00ad1b8ec41c35a5cee9f8e392ba2da5bfe0f61ff5ca9c4a9db"
+    },
+    {
+      "file": "momentum_tool/explore3.py",
+      "original_sha256": "6a2f49d74e3caa60bfd146872af5fac5642a43eca1d7e18786da89e35e9bd845",
+      "packaged_sha256": "6a2f49d74e3caa60bfd146872af5fac5642a43eca1d7e18786da89e35e9bd845"
+    },
+    {
+      "file": "momentum_tool/explore4.py",
+      "original_sha256": "f377b61e858861320a6f4f37163c0e7b8672836773b545d4b177551390a317c1",
+      "packaged_sha256": "f377b61e858861320a6f4f37163c0e7b8672836773b545d4b177551390a317c1"
+    },
+    {
+      "file": "momentum_tool/explore5.py",
+      "original_sha256": "3c8ef7749f5f40726b4f2b3de09ac5304b24bad7e16c843f1701c356dcb13973",
+      "packaged_sha256": "3c8ef7749f5f40726b4f2b3de09ac5304b24bad7e16c843f1701c356dcb13973"
+    },
+    {
+      "file": "momentum_tool/fix_splits.py",
+      "original_sha256": "5184ef7f02ea328cbf7b9113a98aa580a187a1f67a80f38b072b2216505cdfd8",
+      "packaged_sha256": "5184ef7f02ea328cbf7b9113a98aa580a187a1f67a80f38b072b2216505cdfd8"
+    },
+    {
+      "file": "momentum_tool/freeze2019.py",
+      "original_sha256": "4de36bea63f1a0a965bff8a78af0fadfe60ddf8c0ddcce07d3667dfe74c85c58",
+      "packaged_sha256": "4de36bea63f1a0a965bff8a78af0fadfe60ddf8c0ddcce07d3667dfe74c85c58"
+    },
+    {
+      "file": "momentum_tool/frozen_run.py",
+      "original_sha256": "3461398a6688e674e3bee9e57747eb052bb558c81116050fdfb5aeee4d4255c9",
+      "packaged_sha256": "24999bbd94598fdd5c61e440bee835f3c46d0b799a3204047f17c201960cd8f2"
+    },
+    {
+      "file": "momentum_tool/gate_final_review.py",
+      "original_sha256": "ced729ea7f82142d6ab4d533e7cf39be552c73f2588fc7cf6ef47c7af6503910",
+      "packaged_sha256": "6e34dd3dcc4f3cf1494f50ec19dc958a8244352f1953c1651884853dba65f80f"
+    },
+    {
+      "file": "momentum_tool/grid_scan.py",
+      "original_sha256": "d18661ade08ce26c7729b5745516e31258512d6476dd6e10d7c3776201ba161c",
+      "packaged_sha256": "d18661ade08ce26c7729b5745516e31258512d6476dd6e10d7c3776201ba161c"
+    },
+    {
+      "file": "momentum_tool/metrics.py",
+      "original_sha256": "22ddb908f36d108bf4e022ab7f5b6f55567f8b080260da7f324a3daadd7fd38e",
+      "packaged_sha256": "22ddb908f36d108bf4e022ab7f5b6f55567f8b080260da7f324a3daadd7fd38e"
+    },
+    {
+      "file": "momentum_tool/monthly_signal.py",
+      "original_sha256": "a0f673ad7c1001fb45d14635c4d16948830d6214d2effca3c0943d64facf70c6",
+      "packaged_sha256": "a0f673ad7c1001fb45d14635c4d16948830d6214d2effca3c0943d64facf70c6"
+    },
+    {
+      "file": "momentum_tool/probe_routing.py",
+      "original_sha256": "4278577b0afbfbd15b975fcefe4ea3928f2107be4d7da4c1da2a5cedae236b3f",
+      "packaged_sha256": "6a9e06a42c2cf68380a0a500e6b44c0419911d59a64be6e11a194fad8869635e"
+    },
+    {
+      "file": "momentum_tool/pure_factor.py",
+      "original_sha256": "ab3c9ff6b3c3334523e62c4e1e6b5159150bbd4214faae29912d04b4dd9b5985",
+      "packaged_sha256": "ab3c9ff6b3c3334523e62c4e1e6b5159150bbd4214faae29912d04b4dd9b5985"
+    },
+    {
+      "file": "momentum_tool/quick_test.py",
+      "original_sha256": "9cc41484672270cbcdde7b184e37c7615b32255df8fb9286b00583a6c49ffc9b",
+      "packaged_sha256": "9cc41484672270cbcdde7b184e37c7615b32255df8fb9286b00583a6c49ffc9b"
+    },
+    {
+      "file": "momentum_tool/run_backtest.py",
+      "original_sha256": "0d34222f4e785fc633c9517a13c3957e5eafa2f0752b64ffa72e5bc1f62a760c",
+      "packaged_sha256": "0d34222f4e785fc633c9517a13c3957e5eafa2f0752b64ffa72e5bc1f62a760c"
+    },
+    {
+      "file": "momentum_tool/simulate_dca.py",
+      "original_sha256": "016181aee336900a04b1a1563c015b71af22624f4736323d51fb496367d9a4b7",
+      "packaged_sha256": "016181aee336900a04b1a1563c015b71af22624f4736323d51fb496367d9a4b7"
+    },
+    {
+      "file": "momentum_tool/strategy_iterate.py",
+      "original_sha256": "82e2dd523b1a33e1001b9f68666c403d6734fe27f2f79ff974a26bffaaee1d78",
+      "packaged_sha256": "82e2dd523b1a33e1001b9f68666c403d6734fe27f2f79ff974a26bffaaee1d78"
+    },
+    {
+      "file": "momentum_tool/tech_pool.py",
+      "original_sha256": "e5406eb71027e61be6aa448aa19a58d26fd3e89a3a7da587d18c382a3e3ad8b9",
+      "packaged_sha256": "e5406eb71027e61be6aa448aa19a58d26fd3e89a3a7da587d18c382a3e3ad8b9"
+    },
+    {
+      "file": "momentum_tool/third_check.py",
+      "original_sha256": "56403a4a5bb59eb82eccf612099e80c5533f9cefbf4d8738027ab92b144677df",
+      "packaged_sha256": "56403a4a5bb59eb82eccf612099e80c5533f9cefbf4d8738027ab92b144677df"
+    },
+    {
+      "file": "momentum_tool/verify_final.py",
+      "original_sha256": "d70e5a7d9ec9eb86d9c25b45fba1d1e8291567b08696fa979e4d735af490d422",
+      "packaged_sha256": "d70e5a7d9ec9eb86d9c25b45fba1d1e8291567b08696fa979e4d735af490d422"
+    },
+    {
+      "file": "momentum_tool/verify_fixed.py",
+      "original_sha256": "cf5f8da15d0052d9b55b5be5fcdf48e985f34565dcf96bb6e943ab4d752c6907",
+      "packaged_sha256": "cf5f8da15d0052d9b55b5be5fcdf48e985f34565dcf96bb6e943ab4d752c6907"
+    },
+    {
+      "file": "momentum_tool/wf_final.py",
+      "original_sha256": "8dfe32e68a06313430f943b025e27d7e6f368c1c8efca7f2fccf0bd03749ce97",
+      "packaged_sha256": "8dfe32e68a06313430f943b025e27d7e6f368c1c8efca7f2fccf0bd03749ce97"
+    },
+    {
+      "file": "momentum_tool/wf_pure.py",
+      "original_sha256": "5819111f8762507627f1eca67a1ccdbe88d7171b2b237c13430b9e6b2270a22c",
+      "packaged_sha256": "5819111f8762507627f1eca67a1ccdbe88d7171b2b237c13430b9e6b2270a22c"
+    }
+  ],
+  "migration_notes": [
+    "Machine paths replaced with environment-configurable local inputs.",
+    "Milestone amounts moved to a generic example configuration; personal inputs and outputs excluded.",
+    "Mutation copies created alongside their source module so sibling imports work from repository root."
+  ]
+}
